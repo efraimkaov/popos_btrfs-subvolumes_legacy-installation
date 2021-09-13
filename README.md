@@ -119,6 +119,7 @@ ek@efraimkaov:~# update-grub
 
 ```
 ek@efraimkaov:~# exit
+ek@efraimkaov:~# umount -l /mnt
 ek@efraimkaov:~# reboot
 ```
 
